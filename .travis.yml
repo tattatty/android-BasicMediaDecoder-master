@@ -33,7 +33,7 @@ deploy:
   skip_cleanup: true
 
   on:
-    repo: T-Jedsada/Example-Travis
+    repo: tattatty/android-BasicMediaDecoder-master
     jdk: oraclejdk8
   api_key:
     secure: ${personal_token}
