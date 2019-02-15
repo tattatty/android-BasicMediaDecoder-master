@@ -30,6 +30,7 @@ import android.view.Surface;
 import android.view.TextureView;
 import android.view.View;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.example.android.common.media.MediaCodecWrapper;
 
@@ -60,6 +61,9 @@ public class MainActivity extends Activity {
         setContentView(R.layout.sample_main);
         mPlaybackView = (TextureView) findViewById(R.id.PlaybackView);
         mAttribView =  (TextView)findViewById(R.id.AttribView);
+
+
+        Toast.makeText(getApplicationContext(), "Hello World", Toast.LENGTH_LONG).show();
 
     }
 
