@@ -101,6 +101,7 @@ public class MainActivity extends Activity {
 
     public void startPlayback() {
 
+        Toast.makeText(getApplicationContext(), "startPlayback", Toast.LENGTH_LONG).show();
         // Construct a URI that points to the video resource that we want to play
         Uri videoUri = Uri.parse("android.resource://"
                 + getPackageName() + "/"
