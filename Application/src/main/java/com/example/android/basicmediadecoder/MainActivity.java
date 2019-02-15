@@ -64,6 +64,7 @@ public class MainActivity extends Activity {
 
 
         Toast.makeText(getApplicationContext(), "Hello World", Toast.LENGTH_LONG).show();
+        Toast.makeText(getApplicationContext(), "Hello World 123 ", Toast.LENGTH_LONG).show();
 
     }
 
