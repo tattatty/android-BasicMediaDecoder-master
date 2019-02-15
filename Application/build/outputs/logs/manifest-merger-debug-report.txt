@@ -1,0 +1,153 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/chatchai/_AJ/_Development/Android Project/android-BasicMediaDecoder-master/Application/src/main/AndroidManifest.xml:18:1-38:12
+INJECTED from /Users/chatchai/_AJ/_Development/Android Project/android-BasicMediaDecoder-master/Application/src/main/AndroidManifest.xml:18:1-38:12
+INJECTED from /Users/chatchai/_AJ/_Development/Android Project/android-BasicMediaDecoder-master/Application/src/main/AndroidManifest.xml:18:1-38:12
+MERGED from [com.android.support:support-v13:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/support-v13-28.0.0.aar/1a3735c462a28f1089f10c12bd6afdf5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/4fa9ff98cd77b8359c37f3308f0e55d9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/701c5abda1a7aac30113eccf07bfb55b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8f78791b7c54fc2338e831401e679627/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/1a8da200066b4a3e716766ab763b8e6a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/8b81840de4cb70861fdff1e4d335e2df/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/e4093a3eb0c2dda88411c27b83a13c12/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/e14732ba23d7849134b51940371abba3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/2b4eeb18a432c8416de7d8f18bc530d1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/6c39bd194157bc87b6381d60e737d90c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/1847d128ae9cdca514eac69321e24b5f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/8c72a08ef5d00aa9b9c38109c3e96839/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/519856f2d26e261b8e06c557d38c3b3b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/05e3553a34858d1fa480cbbf54db85bf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/3d8a1809f7bb63f39f17cc6b1dfd46ff/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/fc3a904763e82765e7cea9d8506bd2e1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/ea53e94225232015f4255faada4ca710/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/87f5615f4499aac850e1b6fc01387e7e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/2817735f72041ccb61c4f511064c4f43/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/0e145dc4b22d129e1e96a0a4ac32f757/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/383588d5715c242d760a89d0558da197/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ef7e59b7eac9503a502132c4b09c0fee/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/17630a387c54103bb4f48c4d7bfeccd0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/fba1f1915773d90c5d03b504556442d6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/b86fd132c97c3e091e6c43283a118cbc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/3e66fc80be869fc9e122912a11ff2252/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/ab45259016d54c958cc29b3967b6e634/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/df5518c4b5b79436a06d416c7e9372f5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/c1d40d3b8684669303a00791530f49c5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2a2387554062b13be67404d85a2d216a/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/chatchai/_AJ/_Development/Android Project/android-BasicMediaDecoder-master/Application/src/main/AndroidManifest.xml:18:1-38:12
+INJECTED from /Users/chatchai/_AJ/_Development/Android Project/android-BasicMediaDecoder-master/Application/src/main/AndroidManifest.xml:18:1-38:12
+	package
+		ADDED from /Users/chatchai/_AJ/_Development/Android Project/android-BasicMediaDecoder-master/Application/src/main/AndroidManifest.xml:19:5-52
+	android:versionName
+		ADDED from /Users/chatchai/_AJ/_Development/Android Project/android-BasicMediaDecoder-master/Application/src/main/AndroidManifest.xml:21:5-30
+		INJECTED from /Users/chatchai/_AJ/_Development/Android Project/android-BasicMediaDecoder-master/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/chatchai/_AJ/_Development/Android Project/android-BasicMediaDecoder-master/Application/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/chatchai/_AJ/_Development/Android Project/android-BasicMediaDecoder-master/Application/src/main/AndroidManifest.xml:18:11-69
+	android:versionCode
+		ADDED from /Users/chatchai/_AJ/_Development/Android Project/android-BasicMediaDecoder-master/Application/src/main/AndroidManifest.xml:20:5-28
+		INJECTED from /Users/chatchai/_AJ/_Development/Android Project/android-BasicMediaDecoder-master/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/chatchai/_AJ/_Development/Android Project/android-BasicMediaDecoder-master/Application/src/main/AndroidManifest.xml
+application
+ADDED from /Users/chatchai/_AJ/_Development/Android Project/android-BasicMediaDecoder-master/Application/src/main/AndroidManifest.xml:25:5-36:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/2817735f72041ccb61c4f511064c4f43/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/2817735f72041ccb61c4f511064c4f43/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/0e145dc4b22d129e1e96a0a4ac32f757/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/0e145dc4b22d129e1e96a0a4ac32f757/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/2817735f72041ccb61c4f511064c4f43/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/chatchai/_AJ/_Development/Android Project/android-BasicMediaDecoder-master/Application/src/main/AndroidManifest.xml:26:9-41
+	android:icon
+		ADDED from /Users/chatchai/_AJ/_Development/Android Project/android-BasicMediaDecoder-master/Application/src/main/AndroidManifest.xml:26:42-78
+activity#com.example.android.basicmediadecoder.MainActivity
+ADDED from /Users/chatchai/_AJ/_Development/Android Project/android-BasicMediaDecoder-master/Application/src/main/AndroidManifest.xml:27:9-35:20
+	android:screenOrientation
+		ADDED from /Users/chatchai/_AJ/_Development/Android Project/android-BasicMediaDecoder-master/Application/src/main/AndroidManifest.xml:29:13-50
+	android:label
+		ADDED from /Users/chatchai/_AJ/_Development/Android Project/android-BasicMediaDecoder-master/Application/src/main/AndroidManifest.xml:30:13-45
+	android:name
+		ADDED from /Users/chatchai/_AJ/_Development/Android Project/android-BasicMediaDecoder-master/Application/src/main/AndroidManifest.xml:28:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/chatchai/_AJ/_Development/Android Project/android-BasicMediaDecoder-master/Application/src/main/AndroidManifest.xml:31:13-34:29
+action#android.intent.action.MAIN
+ADDED from /Users/chatchai/_AJ/_Development/Android Project/android-BasicMediaDecoder-master/Application/src/main/AndroidManifest.xml:32:17-68
+	android:name
+		ADDED from /Users/chatchai/_AJ/_Development/Android Project/android-BasicMediaDecoder-master/Application/src/main/AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/chatchai/_AJ/_Development/Android Project/android-BasicMediaDecoder-master/Application/src/main/AndroidManifest.xml:33:17-76
+	android:name
+		ADDED from /Users/chatchai/_AJ/_Development/Android Project/android-BasicMediaDecoder-master/Application/src/main/AndroidManifest.xml:33:27-74
+uses-sdk
+INJECTED from /Users/chatchai/_AJ/_Development/Android Project/android-BasicMediaDecoder-master/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/chatchai/_AJ/_Development/Android Project/android-BasicMediaDecoder-master/Application/src/main/AndroidManifest.xml
+INJECTED from /Users/chatchai/_AJ/_Development/Android Project/android-BasicMediaDecoder-master/Application/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-v13:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/support-v13-28.0.0.aar/1a3735c462a28f1089f10c12bd6afdf5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/support-v13-28.0.0.aar/1a3735c462a28f1089f10c12bd6afdf5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/4fa9ff98cd77b8359c37f3308f0e55d9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/4fa9ff98cd77b8359c37f3308f0e55d9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/701c5abda1a7aac30113eccf07bfb55b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/701c5abda1a7aac30113eccf07bfb55b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8f78791b7c54fc2338e831401e679627/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8f78791b7c54fc2338e831401e679627/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/1a8da200066b4a3e716766ab763b8e6a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/1a8da200066b4a3e716766ab763b8e6a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/8b81840de4cb70861fdff1e4d335e2df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/8b81840de4cb70861fdff1e4d335e2df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/e4093a3eb0c2dda88411c27b83a13c12/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/e4093a3eb0c2dda88411c27b83a13c12/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/e14732ba23d7849134b51940371abba3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/e14732ba23d7849134b51940371abba3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/2b4eeb18a432c8416de7d8f18bc530d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/2b4eeb18a432c8416de7d8f18bc530d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/6c39bd194157bc87b6381d60e737d90c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/6c39bd194157bc87b6381d60e737d90c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/1847d128ae9cdca514eac69321e24b5f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/1847d128ae9cdca514eac69321e24b5f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/8c72a08ef5d00aa9b9c38109c3e96839/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/8c72a08ef5d00aa9b9c38109c3e96839/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/519856f2d26e261b8e06c557d38c3b3b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/519856f2d26e261b8e06c557d38c3b3b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/05e3553a34858d1fa480cbbf54db85bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/05e3553a34858d1fa480cbbf54db85bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/3d8a1809f7bb63f39f17cc6b1dfd46ff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/3d8a1809f7bb63f39f17cc6b1dfd46ff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/fc3a904763e82765e7cea9d8506bd2e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/fc3a904763e82765e7cea9d8506bd2e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/ea53e94225232015f4255faada4ca710/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/ea53e94225232015f4255faada4ca710/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/87f5615f4499aac850e1b6fc01387e7e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/87f5615f4499aac850e1b6fc01387e7e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/2817735f72041ccb61c4f511064c4f43/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/2817735f72041ccb61c4f511064c4f43/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/0e145dc4b22d129e1e96a0a4ac32f757/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/0e145dc4b22d129e1e96a0a4ac32f757/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/383588d5715c242d760a89d0558da197/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/383588d5715c242d760a89d0558da197/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ef7e59b7eac9503a502132c4b09c0fee/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ef7e59b7eac9503a502132c4b09c0fee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/17630a387c54103bb4f48c4d7bfeccd0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/17630a387c54103bb4f48c4d7bfeccd0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/fba1f1915773d90c5d03b504556442d6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/fba1f1915773d90c5d03b504556442d6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/b86fd132c97c3e091e6c43283a118cbc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/b86fd132c97c3e091e6c43283a118cbc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/3e66fc80be869fc9e122912a11ff2252/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/3e66fc80be869fc9e122912a11ff2252/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/ab45259016d54c958cc29b3967b6e634/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/ab45259016d54c958cc29b3967b6e634/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/df5518c4b5b79436a06d416c7e9372f5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/df5518c4b5b79436a06d416c7e9372f5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/c1d40d3b8684669303a00791530f49c5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/c1d40d3b8684669303a00791530f49c5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2a2387554062b13be67404d85a2d216a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/chatchai/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2a2387554062b13be67404d85a2d216a/AndroidManifest.xml:20:5-44
+INJECTED from /Users/chatchai/_AJ/_Development/Android Project/android-BasicMediaDecoder-master/Application/src/main/AndroidManifest.xml
+INJECTED from /Users/chatchai/_AJ/_Development/Android Project/android-BasicMediaDecoder-master/Application/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/chatchai/_AJ/_Development/Android Project/android-BasicMediaDecoder-master/Application/src/main/AndroidManifest.xml
+		ADDED from /Users/chatchai/_AJ/_Development/Android Project/android-BasicMediaDecoder-master/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/chatchai/_AJ/_Development/Android Project/android-BasicMediaDecoder-master/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/chatchai/_AJ/_Development/Android Project/android-BasicMediaDecoder-master/Application/src/main/AndroidManifest.xml
+		ADDED from /Users/chatchai/_AJ/_Development/Android Project/android-BasicMediaDecoder-master/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/chatchai/_AJ/_Development/Android Project/android-BasicMediaDecoder-master/Application/src/main/AndroidManifest.xml
