@@ -31,7 +31,7 @@ deploy:
   user: "tat_tatty@hotmail.com"
   password: "aantmod131222"
   file_glob: true
-  file: app/build/outputs/apk/*.apk
+  file: app/build/outputs/*.apk
   skip_cleanup: true
   overwrite: true
 
