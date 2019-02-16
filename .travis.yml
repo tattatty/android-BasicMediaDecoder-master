@@ -28,6 +28,7 @@ script:
 
 deploy:
   provider: releases
+  api_key: 8f4f94c07168865d0099f10ea51118e7412f787e
   user: "tat_tatty@hotmail.com"
   password: "aantmod131222"
   file_glob: true
