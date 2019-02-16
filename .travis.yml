@@ -1,5 +1,5 @@
 language: android
-jdk: oraclejdk8
+
 
 notifications:
   email: true
@@ -27,13 +27,17 @@ script:
   ./gradlew clean build
 
 deploy:
-  provider: releases
+  provider: debug
   file_glob: true
   file: app/build/outputs/apk/*.apk
   skip_cleanup: true
+  overwrite: true
 
   on:
     repo: tattatty/android-BasicMediaDecoder-master
-    jdk: oraclejdk8
+
   api_key:
     secure: 89847df54376bed816ee27eb230fd25452f39c2d
+    
+    
+    
