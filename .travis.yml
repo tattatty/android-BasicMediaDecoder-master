@@ -1,8 +1,17 @@
 language: android
-
+sudo: required
+jdk: oraclejdk8
 
 notifications:
   email: true
+
+before_cache:
+ -rm -f $HOME/.gradle/caches/modules-2/modules-2.lock
+ -rm -fr $HOME/.gradle/caches/*/plugin-resolution/
+cache:
+ directories:
+ -$HOME/.gradle/caches/
+ -$HOME/.gradle/wrapper/
 
 branches:
   only:
@@ -26,21 +35,4 @@ licenses:
 script:
   ./gradlew clean build
 
-deploy:
-  provider: releases
-  api_key: 8f4f94c07168865d0099f10ea51118e7412f787e
-  user: "tat_tatty@hotmail.com"
-  password: "aantmod131222"
-  file_glob: true
-  file: app/build/outputs/apk/*.apk
-  skip_cleanup: true
-  overwrite: true
-
-  on:
-    repo: tattatty/android-BasicMediaDecoder-master
-
-  api_key:
-    secure: 89847df54376bed816ee27eb230fd25452f39c2d
-    
-    
-    
+   
