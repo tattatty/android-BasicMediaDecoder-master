@@ -35,4 +35,14 @@ licenses:
 script:
   ./gradlew clean build
 
-   
+deploy:
+  provider: releases
+  file_glob: true
+  file: app/build/outputs/apk/*.apk
+  skip_cleanup: true
+
+  on:
+    repo: tattatty/android-BasicMediaDecoder-master
+    jdk: oraclejdk8
+  api_key:
+    secure: 53b88fb5d06835647a9e7a4340960e003fee94e4
