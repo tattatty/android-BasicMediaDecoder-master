@@ -45,4 +45,4 @@ deploy:
     repo: tattatty/android-BasicMediaDecoder-master
     jdk: oraclejdk8
   api_key:
-    secure: 53b88fb5d06835647a9e7a4340960e003fee94e4
+    secure: a71e9d0e2f9fef18bffbb2a97bc013682521c2d0
