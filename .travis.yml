@@ -23,22 +23,13 @@ licenses:
 - 'android-sdk-license-.+'
 - 'google-gdk-license-.+'
 
-before_cache:
-  - rm -f  $HOME/.gradle/caches/modules-2/modules-2.lock
-  - rm -fr $HOME/.gradle/caches/*/plugin-resolution/
-cache:
-  directories:
-    - $HOME/.gradle/caches/
-    - $HOME/.gradle/wrapper/
-    - $HOME/.android/build-cache
-
 script:
   ./gradlew clean build
 
 deploy:
   provider: releases
   file_glob: true
-  file: app/build/outputs/apk/*.apk
+  file: Application⁩/build⁩/outputs⁩/apk⁩/debug⁩/*.apk
   skip_cleanup: true
 
   on:
