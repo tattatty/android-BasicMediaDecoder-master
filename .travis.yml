@@ -38,7 +38,7 @@ script:
 deploy:
   provider: releases
   file_glob: true
-  file: app/build/outputs/apk/*.apk
+  file: Application/build/outputs/*.apk
   skip_cleanup: true
 
   on:
