@@ -29,7 +29,7 @@ script:
 
 deploy:
   provider: releases
-  file: Application/build/outputs/apk/debug/*.apk
+  file: Application/build/outputs/apk/debug/Application-debug.apk
   file_glob: true
   skip_cleanup: true
 
