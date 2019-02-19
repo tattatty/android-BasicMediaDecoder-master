@@ -63,9 +63,6 @@ public class MainActivity extends Activity {
         mAttribView =  (TextView)findViewById(R.id.AttribView);
 
 
-        Toast.makeText(getApplicationContext(), "Hello World", Toast.LENGTH_LONG).show();
-        Toast.makeText(getApplicationContext(), "Hello World 123 ", Toast.LENGTH_LONG).show();
-
     }
 
     @Override
@@ -101,9 +98,7 @@ public class MainActivity extends Activity {
 
     public void startPlayback() {
 
-        Toast.makeText(getApplicationContext(), "startPlayback 131313", Toast.LENGTH_LONG).show();
-        Toast.makeText(getApplicationContext(), "startPlayback 141414", Toast.LENGTH_LONG).show();
-        Toast.makeText(getApplicationContext(), "startPlayback 141414", Toast.LENGTH_LONG).show();
+        Toast.makeText(getApplicationContext(), "startPlayback 161616", Toast.LENGTH_LONG).show();
         // Construct a URI that points to the video resource that we want to play
         Uri videoUri = Uri.parse("android.resource://"
                 + getPackageName() + "/"
